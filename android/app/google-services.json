@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "965707045812",
+    "project_id": "hero-app-2629e",
+    "storage_bucket": "hero-app-2629e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:965707045812:android:d8ce49f22bcfed6ac8b0e1",
+        "android_client_info": {
+          "package_name": "com.getheroapp.hero"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "965707045812-i6cpsbqtftm549vi46m6vqt16q8r4atv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZQDQlL8HkrgHKc_nwFvTRKrnZNjf899M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "965707045812-i6cpsbqtftm549vi46m6vqt16q8r4atv.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "965707045812-geeck5qf959qbohfeun7on8uvu2pvtkg.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.getheroapp.hero",
+                "app_store_id": "1557891757"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
